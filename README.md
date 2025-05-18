@@ -1,7 +1,7 @@
-# latex-cheat-sheet
+# LaTeX Cheat Sheet
 
 Download the PDF from the `Releases` section in the right sidebar!
 
-## Document Preview
+### Document Preview:
 
 ![](assets/preview.png)
