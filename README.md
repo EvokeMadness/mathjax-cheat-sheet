@@ -1,6 +1,6 @@
 # LaTeX Cheat Sheet
 
-Download the PDF from the `Releases` section in the right sidebar!
+Download the cheat sheet here: [`Download Link`](https://github.com/EvokeMadness/latex-cheat-sheet/releases/tag/v1.0.0)
 
 ### Document Preview:
 
