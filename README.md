@@ -1,6 +1,6 @@
 # MathJax Cheat Sheet
 
-Download the cheat sheet here: [`Download Link`](https://github.com/EvokeMadness/mathjax-cheat-sheet/releases/download/v1.0.0/mathjax-cheat-sheet.pdf)
+Download the cheat sheet here: [`Download Link`](https://github.com/EvokeMadness/mathjax-cheat-sheet/releases/latest/download/mathjax-cheat-sheet.pdf)
 
 ### Document Preview:
 
